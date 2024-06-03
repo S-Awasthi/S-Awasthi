@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Cybersecurity, TensorFlow**
 
-- 👨‍💻 <small>All of my projects are available at [https://www.linkedin.com/in/sagar-awasthi-59a637210/](https://www.linkedin.com/in/sagar-awasthi-59a637210/)</small>
+- 👨‍💻 [All of my projects](https://www.linkedin.com/in/sagar-awasthi-59a637210/) (available at LinkedIn)
 
 - 💬 Ask me about **Data Structures and Algorithms Concepts and questions**
 
