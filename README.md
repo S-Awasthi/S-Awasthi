@@ -1,13 +1,13 @@
 ![logo](https://github.com/S-Awasthi/S-Awasthi/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sagar Awasthi</h1>
-<h3 align="center">An Aspiring Data Analyst with a Passion for Algorithms and Physics</h3>
+<h3 align="center">Data Analyst with a Passion for Algorithms and Physics</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 [All of my mechanical core projects](https://www.linkedin.com/in/sagar-awasthi-59a637210/) (available at LinkedIn)
 
-- 💬 Ask me about **Data Structures and Algorithms and DATA Analytics Concepts and questions**
+<!--- 💬 Ask me about **Data Structures and Algorithms and DATA Analytics Concepts and questions**-->
 
 - 📫 How to reach me **ysagarawasthi@gmail.com**
 
